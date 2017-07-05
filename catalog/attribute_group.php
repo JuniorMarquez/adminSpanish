@@ -1,7 +1,7 @@
 <?php
 // Heading
 $_['heading_title']     = 'Grupo de atributos';
-
+// hola andreita
 // Text
 $_['text_success']      = 'Exito: Ha modificado los grupos de atributos!';
 $_['text_list']         = 'Lista de grupos de atributos';
